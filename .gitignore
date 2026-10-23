@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Local machine-specific config
+src/config.py
+
+# Generated audio/transcript output
+audio/
+transcripts/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Editor / OS files
+.vscode/
+.DS_Store
